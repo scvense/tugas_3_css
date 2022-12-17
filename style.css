@@ -1,0 +1,22 @@
+.paragraf_satu {
+    background-color: orange;
+}
+
+.paragraf_dua {
+    color: white;
+    background-color: blue;
+}
+
+.paragraf_tiga {
+    font-size: 17px;
+    font-family: monospace;
+    background-color: white;
+
+    
+}
+
+.paragraf_empat {
+    font-size: 15px;
+    font-weight: 900;
+    background-color: gray;
+}
